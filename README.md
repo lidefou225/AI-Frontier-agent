@@ -162,7 +162,3 @@ scripts/run_daily_brief.sh
 - 增加来源健康状态摘要
 - 改进旧模型重新升温的识别方式
 - 增加可选的邮件、Slack 或 Telegram 输出
-
-## License
-
-本项目暂未附加开源许可证。公开发布前请根据你的开放范围选择许可证；若希望允许他人自由使用、修改和分发，可以考虑 MIT License。
