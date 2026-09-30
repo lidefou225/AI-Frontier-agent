@@ -1,0 +1,11 @@
+{
+  "name": "ai-frontier-signal-aggregator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "dailyhot-api": "2.0.8"
+  }
+}

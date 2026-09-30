@@ -1,0 +1,4 @@
+requests>=2.32,<3
+python-dotenv>=1.2,<2
+openai>=2.48,<3
+tavily-python>=0.8,<1
